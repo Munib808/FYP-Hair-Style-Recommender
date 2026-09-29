@@ -12,8 +12,6 @@
 
 </div>
 
-> **Note:** "HairSense" is a working title. Replace it, the team surnames, university name, and meeting dates marked `TODO` before submission.
-
 ---
 
 ## 📑 Table of Contents
