@@ -88,13 +88,13 @@ A mobile/web app that:
 ## 2. Supervisor Meetings
 
 ### 🗓️ Meeting 1 — Requesting Supervision
-**Date:** `TODO` · **Attendees:** Munib, Usman, Awais, Dr. Hafiz Muhammad Faisal Shahzad
+**Date:** `Second Week` · **Attendees:** Munib, Usman, Awais, Dr. Hafiz Muhammad Faisal Shahzad
 
 - The team approached **Dr. Hafiz Muhammad Faisal Shahzad** and requested him to become the **Final Year Project supervisor**.
 - Outcome: Dr. Faisal agreed to supervise the project and asked the team to come back with well-thought-out project ideas.
 
 ### 🗓️ Meeting 2 — Idea Presentation & Selection
-**Date:** `TODO` · **Attendees:** Munib, Usman, Awais, Dr. Hafiz Muhammad Faisal Shahzad
+**Date:** `Third Week` · **Attendees:** Munib, Usman, Awais, Dr. Hafiz Muhammad Faisal Shahzad
 
 - The team presented **all four ideas** (multi-agent data science workflow, FYP management system, AI makeup matching, AI hairstyle & grooming).
 - After discussion, **AI Hairstyle & Grooming Recommendation + Virtual Try-On** was selected.
